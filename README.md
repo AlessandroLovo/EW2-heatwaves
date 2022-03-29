@@ -4,7 +4,11 @@ One of the exercises for the second Critical Earth ESR Workshop (April 2022, Ber
 # Description
 
 # Installation
+
 ## Local
+Depending on which operating system you are using there is a possibility to use Anaconda and/or homebrew (on Mac).
+In some cases path variable must be provided.
+
 It is highly suggested to create a conda environment and work from that, so you don't mess up your own base environment.
 
 Start by creating a new python 3.9 environment, let's call it `ew2`
