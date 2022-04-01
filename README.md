@@ -19,7 +19,7 @@ conda activate ew2
 
 Then install the required packages
 ```
-conda install -c conda-forge numpy pandas xarray matplotlib plotly tqdm json optuna
+conda install -c conda-forge numpy pandas xarray matplotlib plotly tqdm json optuna cartopy
 ```
 Install machine learning package
 ```
