@@ -15,11 +15,11 @@
         "link": "https://mycore.core-cloud.net/index.php/s/ClD58tHT9Odtxbh/download",
         "description": "500 years of geopotential height at 500 hPa data for latitudes >= 30 degrees North."
     },
-    "lsm": {
+    "lsmask": {
         "link": "https://mycore.core-cloud.net/index.php/s/qMCVdDzgoowomzV/download",
         "description": "Land (1) - sea (0) mask on the whole globe"
     },
-    "cell_area": {
+    "gparea": {
         "link": "https://mycore.core-cloud.net/index.php/s/i5sP7DexJY1RFaK/download",
         "description": "Area of each grid cell for the whole globe"
     }
