@@ -1,6 +1,26 @@
 {
     "mrso10": {
         "link": "https://mycore.core-cloud.net/index.php/s/r9XRFyOQgmsAvNG/download",
-        "description": "10 days of soil moisture data. Just an example"
+        "description": "10 days of soil moisture data on the whole globe. Just an example"
+    },
+    "mrso": {
+        "link": "https://mycore.core-cloud.net/index.php/s/qfIuHHrcaBopDvG/download",
+        "description": "500 years of soil moisture data for latitudes >= 30 degrees North."
+    },
+    "tas": {
+        "link": "https://mycore.core-cloud.net/index.php/s/KILq90d1y3wsoHc/download",
+        "description": "500 years of surface temperature data for latitudes >= 30 degrees North."
+    },
+    "zg500": {
+        "link": "https://mycore.core-cloud.net/index.php/s/ClD58tHT9Odtxbh/download",
+        "description": "500 years of geopotential height at 500 hPa data for latitudes >= 30 degrees North."
+    },
+    "lsm": {
+        "link": "https://mycore.core-cloud.net/index.php/s/qMCVdDzgoowomzV/download",
+        "description": "Land (1) - sea (0) mask on the whole globe"
+    },
+    "cell_area": {
+        "link": "https://mycore.core-cloud.net/index.php/s/i5sP7DexJY1RFaK/download",
+        "description": "Area of each grid cell for the whole globe"
     }
 }
