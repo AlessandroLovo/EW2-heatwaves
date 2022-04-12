@@ -15,7 +15,7 @@ This makes sense if your personal computer has a decent GPU, otherwise, it is ea
 Depending on which operating system you are using there is a possibility to use Anaconda and/or homebrew (on Mac).
 In some cases path variable must be provided.
 
-It is highly suggested to create a conda environment and work from that, so you don't mess up your own base environment.
+It is highly suggested to create a conda environment and work from that, so you don't mess up your own base environment. For details on how to work with conda environments see the following link [how to manage environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 ### Create new environment and install required packages
 
@@ -29,6 +29,12 @@ Then install the required packages
 ```
 conda install -c conda-forge numpy pandas xarray matplotlib plotly tqdm json optuna cartopy nc-time-axis
 ```
+
+You may have remove json from this list if the package manager complains, and install it separately via
+```
+conda install json
+```
+
 Install machine learning package
 ```
 conda install -c conda-forge tensorflow
