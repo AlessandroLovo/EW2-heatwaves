@@ -10,9 +10,9 @@ There are two main option to perform this exercise: either on your local machine
 
 ## Online (suggested)
 1. We will share with you a drive folder with the data and the code
-2. Right click on that folder and select `Add shortcut`
+2. Right click on that folder and select 'Add shortcut to Drive'. Select 'MyDrive' and then 'Add shortcut'
 3. Open the notebook `ew2.ipynb` with google colab
-4. Go to Runtime -> Change runtime type
+4. Go to 'Runtime' -> 'Change runtime type'
 5. Select GPU. This will allow you to run your code on a remote google GPU, making it considerably faster than using a CPU
 
 ## Local
