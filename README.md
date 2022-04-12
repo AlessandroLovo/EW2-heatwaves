@@ -15,7 +15,7 @@ This makes sense if your personal computer has a decent GPU, otherwise, it is ea
 Depending on which operating system you are using there is a possibility to use Anaconda and/or homebrew (on Mac).
 In some cases path variable must be provided.
 
-It is highly suggested to create a conda environment and work from that, so you don't mess up your own base environment.
+It is highly suggested to create a conda environment and work from that, so you don't mess up your own base environment. For details on how to work with conda environments see the following link [https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html](conda environments)
 
 ### Create new environment and install required packages
 
