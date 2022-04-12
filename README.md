@@ -7,6 +7,14 @@ In this exercise you will deal with machine learning prediction of heatwaves.
 # Running the code
 There are two main option to perform this exercise: either on your local machine, or on google Colab.
 
+
+## Online (suggested)
+1. We will share with you a drive folder with the data and the code
+2. Right click on that folder and select `Add shortcut`
+3. Open the notebook `ew2.ipynb` with google colab
+4. Go to Runtime -> Change runtime type
+5. Select GPU. This will allow you to run your code on a remote google GPU, making it considerably faster than using a CPU
+
 ## Local
 This makes sense if your personal computer has a decent GPU, otherwise, it is easier to run the code online. See below
 
@@ -38,9 +46,3 @@ or pytorch (lower level programming with respect to tensorflow, but allows a mor
 ```
 conda install pytorch torchvision cudatoolkit -c pytorch
 ```
-
-
-## Online
-1. Upload the notebook `ew2.ipynb` to your google drive and open it with google colab
-2. Go to Runtime -> Change runtime type
-3. Select GPU. This will allow you to run your code on a remote google GPU, making it considerably faster than using a CPU
