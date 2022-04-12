@@ -29,6 +29,12 @@ Then install the required packages
 ```
 conda install -c conda-forge numpy pandas xarray matplotlib plotly tqdm json optuna cartopy nc-time-axis
 ```
+
+You may have remove json from this list if the package manager complains, and install it separately via
+```
+conda install json
+```
+
 Install machine learning package
 ```
 conda install -c conda-forge tensorflow
