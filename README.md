@@ -27,13 +27,14 @@ conda activate ew2
 
 Then install the required packages
 ```
-conda install -c conda-forge numpy pandas xarray matplotlib plotly tqdm json optuna cartopy nc-time-axis
+conda install -c conda-forge numpy pandas xarray matplotlib plotly tqdm optuna cartopy nc-time-axis ipykernel
 ```
 
-You may have remove json from this list if the package manager complains, and install it separately via
+In case somehow your exercise will fail due to inability to do ``import json`` try 
 ```
-conda install json
+conda install -c conda-forge json
 ```
+However, normally should be native to the environment we have just created and moreover, it is likely that your anaconda distribution does not have this package
 
 Install machine learning package
 ```
