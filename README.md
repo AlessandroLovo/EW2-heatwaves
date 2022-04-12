@@ -30,15 +30,13 @@ Then install the required packages
 conda install -c conda-forge numpy pandas xarray matplotlib plotly tqdm optuna cartopy nc-time-axis ipykernel netcdf4 ipympl scikit-learn
 ```
 
-In case somehow your exercise will fail due to inability to do ``import json`` try 
-```
-conda install -c conda-forge json
-```
-However, normally should be native to the environment we have just created and moreover, it is likely that your anaconda distribution does not have this package
-
-Install machine learning package
+Install machine learning package: either tensorflow (suggested if you don't have much experience with deep learning. Also the examples are implemented in tensorflow)
 ```
 conda install -c conda-forge tensorflow
+```
+or pytorch (lower level programming with respect to tensorflow, but allows a more capillar and versatile control of what you are doing)
+```
+conda install pytorch torchvision cudatoolkit -c pytorch
 ```
 
 
