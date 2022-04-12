@@ -27,7 +27,7 @@ conda activate ew2
 
 Then install the required packages
 ```
-conda install -c conda-forge numpy pandas xarray matplotlib plotly tqdm optuna cartopy nc-time-axis ipykernel netcdf4
+conda install -c conda-forge numpy pandas xarray matplotlib plotly tqdm optuna cartopy nc-time-axis ipykernel netcdf4 ipympl scikit-learn
 ```
 
 In case somehow your exercise will fail due to inability to do ``import json`` try 
