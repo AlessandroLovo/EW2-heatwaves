@@ -28,6 +28,9 @@ There are two main option to perform this exercise: either on your local machine
 
 6. Once you manage to open the notebook with Google Colaboratory, go to `Runtime` -> `Change Runtime Type` and select GPU.
 
+### Tutorial
+https://user-images.githubusercontent.com/44053982/164013879-530c1715-463a-46a3-8066-bdfe0e9d5840.mp4
+
 ## Local
 This makes sense if your personal computer has a decent GPU, otherwise, it is easier to run the code online. See below
 
