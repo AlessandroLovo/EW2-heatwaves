@@ -9,11 +9,27 @@ There are two main option to perform this exercise: either on your local machine
 
 
 ## Online (suggested)
-1. We will share with you a drive folder with the data and the code
-2. Right click on that folder and select 'Add shortcut to Drive'. Select 'MyDrive' and then 'Add shortcut'
-3. Open the notebook `ew2.ipynb` with google colab
-4. Go to 'Runtime' -> 'Change runtime type'
-5. Select GPU. This will allow you to run your code on a remote google GPU, making it considerably faster than using a CPU
+1. Click on [this link](https://drive.google.com/drive/folders/1Y748L_hgFt3uQJcQRUp5z_oT0D_oAYvL?usp=sharing). It is a google drive folder with the data you will need.
+2. Right click on `ew2.ipynb` and then on `Make a Copy`
+3. Go in the folder `data` and for every file in the folder add a shortcut to your drive following these steps
+
+    1. Right click on the file
+    2. Click on `Add a shortcut to Drive`
+    3. Select `My Drive`
+    4. Click `ADD SHORTCUT`
+
+4. Go to your own drive and right click on `ew2.ipynb`
+5. Click `Open with` and select `Google Colaboratory`. If the option doesn't show follow these steps:
+
+    1. Click on `Connect more apps`
+    2. Go to `Search apps`
+    3. Type `Colaboratory`
+    4. Click on it and follow the installation
+
+6. Once you manage to open the notebook with Google Colaboratory, go to `Runtime` -> `Change Runtime Type` and select GPU.
+
+### Tutorial
+https://user-images.githubusercontent.com/44053982/164013879-530c1715-463a-46a3-8066-bdfe0e9d5840.mp4
 
 ## Local
 This makes sense if your personal computer has a decent GPU, otherwise, it is easier to run the code online. See below
