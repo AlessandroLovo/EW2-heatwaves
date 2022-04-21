@@ -2,7 +2,7 @@
 One of the exercises for the second Critical Earth ESR Workshop (April 2022, Berg en Dal, Netherlands)
 
 # Description
-In this exercise you will deal with machine learning prediction of heatwaves.
+In this exercise you will deal with machine learning prediction of heatwaves. For instructions please view [the exercises pdf](GM_Assignment.pdf).
 
 # Running the code
 There are two main option to perform this exercise: either on your local machine, or on google Colab.
