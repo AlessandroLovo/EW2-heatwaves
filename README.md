@@ -9,7 +9,7 @@ There are two main option to perform this exercise: either on your local machine
 
 
 ## Online (suggested)
-1. Click on [this link](https://drive.google.com/drive/folders/1Y748L_hgFt3uQJcQRUp5z_oT0D_oAYvL?usp=sharing). It is a google drive folder with the data you will need.
+1. Click on [this link](https://drive.google.com/drive/folders/1Y748L_hgFt3uQJcQRUp5z_oT0D_oAYvL?usp=sharing). It is a google drive folder with the data you will need. Note that the files may not be available any more.
 2. Right click on `ew2.ipynb` and then on `Make a Copy`
 3. Go in the folder `data` and for every file in the folder add a shortcut to your drive following these steps
 
