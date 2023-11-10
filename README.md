@@ -7,6 +7,8 @@ In this exercise you will deal with machine learning prediction of heatwaves. Fo
 # Running the code
 There are two main option to perform this exercise: either on your local machine, or on google Colab.
 
+## Data:
+There are instruction on how to download the data within the jupyter notebooks, alternative the data is available from [500 years of Plasim](https://zenodo.org/records/10102506)
 
 ## Online (suggested)
 1. Click on [this link](https://drive.google.com/drive/folders/1Y748L_hgFt3uQJcQRUp5z_oT0D_oAYvL?usp=sharing). It is a google drive folder with the data you will need.
